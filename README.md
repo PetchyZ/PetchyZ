@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PetchyZ
 - 👀 I’m interested in Computer science, Virtual world
 - 🌱 I’m currently learning Face recognition 
-- 💞️ I’m looking to collaborate on Whoever that friendly.
+- 💞️ I’m looking to collaborate with friendly persons.
 - 📫 How to reach me pa.rit@kkumail.com
 
 <!---
